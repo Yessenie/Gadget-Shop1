@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DBase
+comment1.params=gadget
+comment1.target=void\ addGadget(Gadget)
+comment2.params=theModel\ thePrice\ theWeight\ theSize\ nMinutes
+comment2.target=void\ addMobile(java.lang.String,\ float,\ int,\ java.lang.String,\ int)
+comment3.params=theModel\ thePrice\ theWeight\ theSize\ nMemory
+comment3.target=void\ addMP3(java.lang.String,\ float,\ int,\ java.lang.String,\ int)
+numComments=4

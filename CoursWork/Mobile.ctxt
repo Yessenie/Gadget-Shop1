@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Mobile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mobile\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=theModel\ thePrice\ theWeight\ theSize\ nMinutes
+comment1.target=Mobile(java.lang.String,\ float,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mobile\r\n
+comment2.params=
+comment2.target=int\ getnMinutes()
+comment2.text=\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=
+comment3.target=void\ showAllDetails()
+comment4.params=
+comment4.target=java.lang.String\ getnNoPhone()
+comment5.params=Newcredit
+comment5.target=void\ addMinutes(int)
+comment6.params=callMinutes\ clallNoPhone
+comment6.target=void\ makeCall(int,\ java.lang.String)
+numComments=7
