@@ -1,4 +1,4 @@
-Ejcute the proyectlayout.java to see the graphic interface.
+Run the proyectlayout.java to see the graphic interface.
 To make a call or add credit:
 first create an Item from the mobil class
 do not put strings 0 or negatives numbers in the numeric values or is not going to work
